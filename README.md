@@ -1,4 +1,3 @@
-# Apunts_UF_1
 ## Apunts
 
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
@@ -30,4 +29,41 @@ S'encarrega de compilar el codi introduit es a dir el font a llenguatge binari p
 **Código ejecutable**  
 Es el llenguatje binari que permet que l'ordinador entengui el que a de procesasar.
 # CICLO DE VIDA DEL SOFTWARE  
-  ## INGENIERÍA DE SOFTWARE
+## INGENIERÍA DE SOFTWARE
+La ingenieria de software s'enarrega de dirigir el projecte i donar-li finalitat.  
+## DESARROLLO DE SOFTWARE
+Esta dividid en fases
+**ANÁLISIS**
+**DISEÑO**
+**CODIFICACIÓN**
+**PRUEBAS**
+**MANTENIMIENTO**
+## Análisis
+EN aquet proceses s'analitza el que el client demana per poder valorar la complexitat del projecte i de quina es manera es podra dur a terme de la millor manera posible
+## DISEÑO
+Es el pas en el que es diseña la estructura del programa, la arquitectura les dades que s'utilitzaran el tipus de interficie...
+## Codificació
+A la part de codificació es on comença el treball de general el codi que hi han de dos tipus els **llenguatges de programació** i els de **altre tipus**.
+## Probes
+en aquet pas es probael programa per poder trobar els erros i poder corregirlos.
+## manteniment 
+En aqusta part el programa ya a surtir al programa i e es fan manteniments per millorar les versions interfivies perque la experencia del usuari sigui millor i  la vida del software sigui mes llarga i actualitzada.
+# MODELOS DE DESARROLLO DE SOFTWARE
+i han diferents tipous de models: 
+**Modelos clásicos (predictivos)**
+**Modelo en cascada**
+**Modelo en V**
+**Modelo de construcción de prototipos**
+**Modelos evolutivos o incrementales**
+**Modelo en espiral (iterativos)**
+**Metodologías ágiles (adaptativos)**
+## Model en cascada
+EN aquet tipus de models estan anticuats perque van pas a pas es a dir primer una part d'espres un altre, i acaba suponen una perdida de temps.
+## Model en V
+Es dels meus eficients ja que cada vegada que fas un pas vas comprobants si aquest es bon amb proves.
+## Model Per prototip
+Aquest s'utilitzaen cuant el client no te una idea clara de el que vol i amb prototips li vas donan una opció.
+## Model Evolituo o incremental
+Es basan en els de prototips amb opcio de cambis per en mig
+## Model en espiral
+En aquest model es va comprobant contansmemt la efectivitat i els problemas del programa per anar optimitzant el temps.
