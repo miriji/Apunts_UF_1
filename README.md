@@ -67,3 +67,24 @@ Aquest s'utilitzaen cuant el client no te una idea clara de el que vol i amb pro
 Es basan en els de prototips amb opcio de cambis per en mig
 ## Model en espiral
 En aquest model es va comprobant contansmemt la efectivitat i els problemas del programa per anar optimitzant el temps.
+# Lenguaje de programación
+## Obtencion de codigo ejecutable
+Para poder obtener un codigo ejecutable tenemes 2 opciones:
+**Compilar**
+**interpretar**
+
+## Proceso de Compilación/Interpretación
+Este proceso tiene dos fases pra poder ser interpretado bien:
+1.**Análisis de léxico**
+2.**Análisis sintáctico**
+si en el codigo no existen fallos se generara el codigo objeto correctamente.
+hay que tener en cuenta que un codigo que se puede ejecutar no significa que el resultado sea el deseadp.
+
+## Lenguajes Compilados
+Estos lenguajes son muy eficientes a la hora de ejecutarse pero como contra cada vez que se modifica el codigo fuente tiene que volver a copilar todo el codigo. un ejemplo puede ser : **c,c++...**
+
+## Lenguajes Interpretados
+Estos tipòs de lenguaje la ejecucion de generea directamente i no hay que compilar al cambio de coidgo pero como contra es menos eficiente. por ejemplo: **PHP, Javascript**
+
+## Lenguajes hibrido
+Estos de tipo de lenguaje cada vex que se compila cada caracter va generando un bytcode con un interfizie virtual del lenguaje va guardando de esta manera la compilacion es mas rapida i sin perder tanta eficencia. Como por ejemplo: **java**
